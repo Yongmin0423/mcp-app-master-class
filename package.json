@@ -17,6 +17,7 @@
     "wrangler": "^4.105.0"
   },
   "dependencies": {
+    "@modelcontextprotocol/ext-apps": "^1.7.4",
     "@modelcontextprotocol/sdk": "^1.29.0",
     "agents": "^0.16.2",
     "zod": "^4.4.3"
